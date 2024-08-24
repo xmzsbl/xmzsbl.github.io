@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>一切皆有可能</title>
+    <title></title>
     <link href="http://example.com" />
     <updated>2024-08-22T15:34:55.000Z</updated>
     <entry>
-        <id>http://example.com/2024/08/22/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5/</id>
+        <id>http://example.com/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5/</id>
         <title>我的主页</title>
-        <link rel="alternate" href="http://example.com/2024/08/22/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5/"/>
+        <link rel="alternate" href="http://example.com/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5/"/>
         <content type="html">&lt;h1 id=&#34;My-blog&#34;&gt;&lt;a href=&#34;#My-blog&#34; class=&#34;headerlink&#34; title=&#34;My blog&#34;&gt;&lt;/a&gt;My blog&lt;/h1&gt;&lt;p&gt;hello&lt;/p&gt;
 </content>
         <updated>2024-08-22T15:34:55.000Z</updated>
