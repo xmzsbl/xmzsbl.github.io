@@ -10,7 +10,7 @@
         <link rel="alternate" href="http://example.com/2024/08/22/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5/"/>
         <content type="html">&lt;h1 id=&#34;my-blog&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#my-blog&#34;&gt;#&lt;/a&gt; My blog&lt;/h1&gt;
 &lt;p&gt;hello&lt;/p&gt;
-&lt;p&gt;![image-20240824223704181](/_post/home page/image-20240824223704181.png)&lt;/p&gt;
+&lt;p&gt;![image-20240824223704181](_post\home page\image-20240824223704181.png)&lt;/p&gt;
 </content>
         <updated>2024-08-22T15:34:55.000Z</updated>
     </entry>
