@@ -14,7 +14,7 @@
             <pubDate>Thu, 22 Aug 2024 23:34:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;my-blog&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#my-blog&#34;&gt;#&lt;/a&gt; My blog&lt;/h1&gt;
 &lt;p&gt;hello&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;%5Csource_posts%5Cimage-20240824223704181.png&#34; alt=&#34;image-20240824223704181&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![image-20240824223704181](home page/image-20240824223704181.png)&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
