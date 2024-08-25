@@ -8,7 +8,7 @@
         <id>http://example.com/2024/08/25/miniprogram/</id>
         <title>miniprogram</title>
         <link rel="alternate" href="http://example.com/2024/08/25/miniprogram/"/>
-        <content type="html">&lt;p&gt;&lt;mark&gt;小程序制作&lt;/mark&gt;&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;小程序制作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小程序制作&#34;&gt;#&lt;/a&gt; &lt;mark&gt;小程序制作&lt;/mark&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;配置文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#配置文件&#34;&gt;#&lt;/a&gt; 配置文件&lt;/h2&gt;
 &lt;h3 id=&#34;文件介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#文件介绍&#34;&gt;#&lt;/a&gt; 文件介绍&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;/images/miniprogram/image-20240726161847047.png&#34; alt=&#34;image-20240726161847047&#34;&gt;&lt;/p&gt;
