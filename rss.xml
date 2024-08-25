@@ -5,8 +5,15 @@
         <link>http://example.com</link>
         <description>一切皆有可能</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 25 Aug 2024 13:01:23 +0800</pubDate>
-        <lastBuildDate>Sun, 25 Aug 2024 13:01:23 +0800</lastBuildDate>
+        <pubDate>Sun, 25 Aug 2024 13:29:05 +0800</pubDate>
+        <lastBuildDate>Sun, 25 Aug 2024 13:29:05 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/08/25/miniprogram/</guid>
+            <title>miniprogram</title>
+            <link>http://example.com/2024/08/25/miniprogram/</link>
+            <pubDate>Sun, 25 Aug 2024 13:29:05 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/08/25/a/</guid>
             <title>a</title>
